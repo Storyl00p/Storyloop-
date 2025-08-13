@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>StoryLoop - 독거노인 이야기 플랫폼</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            line-height: 1.6;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #333;
+        }
+        p {
+            font-size: 1.1em;
+            line-height: 1.8;
+        }
+        a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>StoryLoop - 독거노인 이야기 플랫폼</h1>
+</header>
+
+<section>
+    <h2>우리의 시작</h2>
+    <p>StoryLoop는 한국의 노인 우울과 자살 문제를 해결하기 위해 설립된 플랫폼입니다. 우리는 독거노인들의 삶의 이야기를 청소년 및 성인들과 공유하여 세대 간 소통과 연대를 촉진하고자 합니다.</p>
+</section>
+
+<section>
+    <h2>주요 활동</h2>
+    <ul>
+        <li>독거노인 인터뷰 및 스토리 콘텐츠 제작</li>
+        <li>청소년 미술 동아리와의 협업을 통한 스토리 기반 만화 제작</li>
+        <li>인스타그램 인플루언서와의 협업을 통한 스토리 확산</li>
+    </ul>
+</section>
+
+<section>
+    <h2>성과</h2>
+    <p>한 독거노인 할아버지의 인터뷰 영상이 릴스로 제작되어 일주일 만에 13,000회 이상의 조회수를 기록하였습니다. 또한, 팔로워 수 20만 명이 넘는 인스타그램 일러스트레이터가 우리의 스토리 계정을 태그하고 콘텐츠를 공유하여 큰 반향을 일으켰습니다.</p>
+</section>
+
+<section>
+    <h2>미래 계획</h2>
+    <p>우리는 독거노인들의 이야기를 더욱 체계적으로 수집하고, 다양한 미디어를 통해 세대 간 소통을 확대할 계획입니다. 또한, 전문가의 자문을 받아 사업의 타당성과 사회적 효과를 강화할 예정입니다.</p>
+</section>
+
+<footer>
+    <p>&copy; 2025 StoryLoop. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
